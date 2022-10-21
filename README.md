@@ -4,7 +4,7 @@
 
 ## Hey 👋
 I learned this project from **Angela Yu Course**. <br><br>
-This Project was implemented 80% using **Javascript** and rest using **HTML** and **CSS**
+This Project was implemented 70% using **Javascript** and rest using **HTML** and **CSS**
 <br><br>
 **Javascript**- The Concept used here is Adding Eventlistener to respective buttons, getting each alphabet you clicked by the usage of "Onclick()" Eventlistener 
 and Navigating each button through a swich case. The Keyboard event property is also used to make sounds while clicking respective keys 
