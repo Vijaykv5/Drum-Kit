@@ -10,6 +10,9 @@ This Project was implemented 70% using **Javascript** and rest using **HTML** an
 and Navigating each button through a swich case. The Keyboard event property is also used to make sounds while clicking respective keys 
 <br>
 <br>
+<b>Live :<b> https://vijaykv5.github.io/Drum-Kit/
+<br>
+<br>
  **Note :**
  you can make sounds by clicking the corresponding buttons as well as pressing it your keyboard .
  
