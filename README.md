@@ -10,7 +10,8 @@ This Project was implemented 70% using **Javascript** and rest using **HTML** an
 and Navigating each button through a swich case. The Keyboard event property is also used to make sounds while clicking respective keys 
 <br>
 <br>
-<b>Live :<b> https://vijaykv5.github.io/Drum-Kit/
+<b>Live :<b> vijaykv-drumkit.netlify.app/
+
 <br>
 <br>
  **Note :**
